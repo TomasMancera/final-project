@@ -1,0 +1,42 @@
+2024-06-06 23:45:27 - root - INFO - Server socket started
+2024-06-06 23:45:45 - root - INFO - Server connected with: ('127.0.0.1', 57298)
+2024-06-06 23:45:45 - root - INFO - Data received from ('127.0.0.1', 57298): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-06 23:45:45 - root - INFO - Processing request
+2024-06-06 23:45:45 - root - INFO - Session key generated
+2024-06-06 23:45:45 - root - ERROR - An error occurred during processing: [Errno 2] No such file or directory: '../server_public_key.pem'
+2024-06-06 23:56:39 - root - INFO - Server socket started
+2024-06-06 23:57:18 - root - INFO - Server connected with: ('127.0.0.1', 57582)
+2024-06-06 23:57:18 - root - INFO - Data received from ('127.0.0.1', 57582): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-06 23:57:18 - root - INFO - Processing request
+2024-06-06 23:57:18 - root - INFO - Session key generated
+2024-06-06 23:57:18 - root - ERROR - An error occurred during processing: [Errno 2] No such file or directory: 'C:\\Users\\HP\\Documents\\universidad\\advancedProgrammingTecniques\\final-project\\problemSolver\\util\\../dataServer/server_public_key.pem'
+2024-06-07 00:06:21 - root - INFO - Server socket started
+2024-06-07 00:07:49 - root - INFO - Server connected with: ('127.0.0.1', 57827)
+2024-06-07 00:07:49 - root - INFO - Data received from ('127.0.0.1', 57827): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-07 00:07:49 - root - INFO - Processing request
+2024-06-07 00:07:49 - root - INFO - Session key generated
+2024-06-07 00:07:49 - root - ERROR - An error occurred during processing: [Errno 2] No such file or directory: 'C:\\Users\\HP\\Documents\\universidad\\advancedProgrammingTecniques\\final-project\\problemSolver\\util\\../dataServer/server_public_key.pem'
+2024-06-07 00:09:44 - root - INFO - Server socket started
+2024-06-07 00:10:15 - root - INFO - Server connected with: ('127.0.0.1', 57886)
+2024-06-07 00:10:15 - root - INFO - Data received from ('127.0.0.1', 57886): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-07 00:10:15 - root - INFO - Processing request
+2024-06-07 00:10:15 - root - INFO - Session key generated
+2024-06-07 00:10:15 - root - ERROR - An error occurred during processing: [Errno 2] No such file or directory: 'C:\\Users\\HP\\Documents\\universidad\\advancedProgrammingTecniques\\final-project\\problemSolver\\util\\../../server_public_key.pem'
+2024-06-07 00:19:55 - root - INFO - Server socket started
+2024-06-07 00:20:06 - root - INFO - Server connected with: ('127.0.0.1', 58116)
+2024-06-07 00:20:06 - root - INFO - Data received from ('127.0.0.1', 58116): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-07 00:20:06 - root - INFO - Processing request
+2024-06-07 00:20:06 - root - INFO - Session key generated
+2024-06-07 00:20:06 - root - INFO - Session key encrypted
+2024-06-07 00:20:06 - root - INFO - Data encrypted
+2024-06-07 00:20:08 - root - INFO - Request sent to Data server
+2024-06-07 00:20:08 - root - ERROR - Failed to reach Data server
+2024-06-07 00:24:52 - root - INFO - Server socket started
+2024-06-07 00:25:09 - root - INFO - Server connected with: ('127.0.0.1', 58230)
+2024-06-07 00:25:09 - root - INFO - Data received from ('127.0.0.1', 58230): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-07 00:25:09 - root - INFO - Processing request
+2024-06-07 00:25:09 - root - INFO - Session key generated
+2024-06-07 00:25:09 - root - INFO - Session key encrypted
+2024-06-07 00:25:09 - root - INFO - Data encrypted
+2024-06-07 00:25:11 - root - INFO - Request sent to Data server
+2024-06-07 00:25:11 - root - ERROR - Failed to reach Data server

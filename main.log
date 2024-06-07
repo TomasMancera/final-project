@@ -1,0 +1,9 @@
+2024-06-07 00:12:27 - root - INFO - Server socket started
+2024-06-07 00:13:40 - root - INFO - Server connected with: ('127.0.0.1', 57967)
+2024-06-07 00:13:40 - root - INFO - Data received from ('127.0.0.1', 57967): {'name': 'fibonacci', 'quantity_data': 100, 'low_limit': 2, 'max_limit': 10, 'output_file': 'results.txt'}
+2024-06-07 00:13:40 - root - INFO - Processing request
+2024-06-07 00:13:40 - root - INFO - Session key generated
+2024-06-07 00:13:40 - root - INFO - Session key encrypted
+2024-06-07 00:13:40 - root - INFO - Data encrypted
+2024-06-07 00:13:42 - root - INFO - Request sent to Data server
+2024-06-07 00:13:42 - root - ERROR - Failed to reach Data server
